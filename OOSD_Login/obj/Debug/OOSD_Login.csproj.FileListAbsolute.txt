@@ -1,0 +1,10 @@
+C:\Users\minht\source\repos\OOSD_Login\OOSD_Login\bin\Debug\OOSD_Login.exe.config
+C:\Users\minht\source\repos\OOSD_Login\OOSD_Login\bin\Debug\OOSD_Login.exe
+C:\Users\minht\source\repos\OOSD_Login\OOSD_Login\bin\Debug\OOSD_Login.pdb
+C:\Users\minht\source\repos\OOSD_Login\OOSD_Login\obj\Debug\OOSD_Login.csprojResolveAssemblyReference.cache
+C:\Users\minht\source\repos\OOSD_Login\OOSD_Login\obj\Debug\OOSD_Login.Properties.Resources.resources
+C:\Users\minht\source\repos\OOSD_Login\OOSD_Login\obj\Debug\OOSD_Login.csproj.GenerateResource.Cache
+C:\Users\minht\source\repos\OOSD_Login\OOSD_Login\obj\Debug\OOSD_Login.csproj.CoreCompileInputs.cache
+C:\Users\minht\source\repos\OOSD_Login\OOSD_Login\obj\Debug\OOSD_Login.exe
+C:\Users\minht\source\repos\OOSD_Login\OOSD_Login\obj\Debug\OOSD_Login.pdb
+C:\Users\minht\source\repos\OOSD_Login\OOSD_Login\obj\Debug\OOSD_Login.FormLogin.resources
